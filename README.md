@@ -20,3 +20,5 @@
 4. 执行npm：npm run mock(关闭terminal使用Ctrl+C)
 5. 安装mockjs：npm install --save-dev mockjs
 6. 根目录下新建mock-test.js:touch mock-test.js
+7. 安装koa-router,koa-views,kow-bodyparser
+8. 配置路由和模板引擎，参考mock-test.js
