@@ -1,4 +1,4 @@
-# mock-project
+# 本地数据模拟，为用户端提供数据
 
 ### 环境配置
 1. 安装koa2：npm install --save koa 
